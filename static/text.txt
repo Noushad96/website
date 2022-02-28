@@ -1,0 +1,3 @@
+this file can be seen by anyone. so don't keep secret data in static file
+
+this is test and this is a static file
